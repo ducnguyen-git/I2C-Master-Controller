@@ -1,2 +1,3 @@
 # I2C-Master-Controller
-Intern Topic Research
+Internship Project about designing I2C Master Controller
+![i2c topology](i2c.png)
